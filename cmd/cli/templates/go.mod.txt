@@ -3,6 +3,7 @@ module ${APP_NAME}
 go 1.17
 
 require (
+  github.com/pnunn/celeritas v1.0.0
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53 // indirect
 	github.com/CloudyKit/jet/v6 v6.1.0 // indirect
